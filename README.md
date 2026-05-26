@@ -281,9 +281,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
-
- <img width="1600" height="1200" alt="exp 6 iot png" src="https://github.com/user-attachments/assets/27055814-8620-4be3-827c-ad621ffa21e5" />
-
+ 
+<img width="728" height="717" alt="image" src="https://github.com/user-attachments/assets/3cac8e4a-971f-4f44-9675-5dbbcd143c84" />
 
 
 <img width="901" height="663" alt="image" src="https://github.com/user-attachments/assets/e774994a-3d95-4e09-a4bd-bf54bfd48ece" />
